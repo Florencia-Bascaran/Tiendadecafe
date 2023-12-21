@@ -1,4 +1,4 @@
-# Proyecto Integrador "Café de autor" ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
+# Proyecto Integrador "Café de autor" :coffee: :chocolate_bar::birthday: :coffee: 
 ![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/de9290b3-ae77-4b33-badc-45128eaa7a89)
 ![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/a771f9dc-b2de-4562-83ff-128bf341e413)
 ![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/0935ce38-f44d-4aba-8b72-090957f3a463)
