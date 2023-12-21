@@ -1,0 +1,35 @@
+.contenedor-sobre-nosotros h1{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+
+.contenido-textos{
+    width: 100%;
+    display: flex;
+    padding: 0px 8%;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contenedores{
+    display: flex;
+    height: 100%;
+}
+
+.contenedores img{
+    width: 40%;
+    height: auto;
+    margin-right: 20px;
+}
+
+.contenedor-sobre-nosotros h1{
+    font-family: 'Playball', cursive;
+}
+.contenedor-sobre-nosotros h2{
+    font-family: 'Playball', cursive;
+}
+.contenedores div p{
+    font-family: 'Handlee', cursive;
+}
