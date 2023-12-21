@@ -1,5 +1,12 @@
 # Proyecto Integrador "Café de autor" ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
 ![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/de9290b3-ae77-4b33-badc-45128eaa7a89)
+![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/a771f9dc-b2de-4562-83ff-128bf341e413)
+![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/0935ce38-f44d-4aba-8b72-090957f3a463)
+![image](https://github.com/Florencia-Bascaran/Tiendadecafe/assets/109605773/b024bcd1-012a-4a8f-8305-9dcd1f49acfe)
+
+
+
+
 
 
 
